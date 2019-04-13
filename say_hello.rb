@@ -1,4 +1,4 @@
-def say_hello(p="Hello",x)
-  puts ("#{p} #{x}")
+def say_hello(x)
+  puts ("Hello #{x}")
 end
 say_hello("Ruby Programmer!")
