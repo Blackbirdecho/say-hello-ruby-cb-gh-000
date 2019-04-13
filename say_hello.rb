@@ -1,2 +1,3 @@
-# Build your say_hello method here
+def say_hello(p="Hello",x)
+  puts ("#{p} #{x}")
 say_hello("Ruby Programmer!")
